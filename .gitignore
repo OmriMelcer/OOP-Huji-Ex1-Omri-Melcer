@@ -1,0 +1,9 @@
+#.gitignore
+
+*.pdf
+*.json
+
+# Java build outputs
+bin/
+*.class
+
