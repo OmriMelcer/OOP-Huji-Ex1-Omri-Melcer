@@ -13,7 +13,7 @@ import java.util.*;
 
 /** TODO: make a pattern as a static constant for <phrase>
  * TODO: make reply to legal function that will come out of reply to
- * TODO: Makc a pattern as a static constant for <request>\
+ * TODO: Make a pattern as a static constant for <request>\
  *
  */
 class ChatterBot {
